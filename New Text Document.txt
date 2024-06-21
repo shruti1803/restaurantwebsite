@@ -1,0 +1,22 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="styles.css">
+<title>My Restaurant</title>
+</head>
+<body>
+<header>
+<h1>Welcome to our Restaurant</h1>
+<nav>
+<a href="#h1">Home</a>
+<a href="#m1">Menu</a>
+<a href="#c1">Contact Us</a>
+</nav>
+</header>
+<main>
+<div id="grad2">
+<h2>About Us</h2>
+<p>The Cosmos is a new restaurant opening soon in your city. Our mission is to provide our customers with delicious food and excellent service in a comfortable and friendly environment.</p>
+<img src="istockphoto-453203585-612x612.jpg" alt="Check this out !!!">
+</div>
+</main>
